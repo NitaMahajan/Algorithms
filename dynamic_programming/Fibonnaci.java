@@ -5,7 +5,7 @@ package DP;
 public class Fibonnaci {
 
 	public static void main(String args[]){
-		int n=7; //0,1,2,3,4
+		int n=7;
 		int fib[] = new int[n+1];
 		fib[0] = 0;
 		fib[1] = 1;
